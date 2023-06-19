@@ -1,16 +1,26 @@
-# Projektrapport: Gruppnamn
+# Ditt namn
 
-## Gruppen
+## Egna reflektioner
 
-### Ert namn
-
-### Medlemmar i gruppen
+## Projektet
 
 ### Beskrivning av projektet
 
-### Vem har gjort vad
+### Vad du har gjort
 
-### Vad ni har gjort
+## Planering
+
+### Lösningsförslag innan uppgiften påbörjas
+
+#### Skisser (exempelvis)
+
+#### Hur du tänker försöka lösa uppgiften.(exempelvis)
+
+#### Pseudokod.(exempelvis)
+
+#### Diagram.(exempelvis)
+
+### Jira/Trello/Github Project och projekthantering enligt Scrum/Kanban
 
 ## Arbetet och dess genomförande
 
@@ -22,8 +32,7 @@
 
 ### Beskriv om du fått byta lösning och varför i sådana fall
 
-
-## Slutsatser
+## Reflektion & Slutsatser
 
 ### Vad gick bra
 
